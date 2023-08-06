@@ -26,7 +26,6 @@ This repository contains the capstone project for the **IBM Data Science Profess
 - Matplotlib
 - Seaborn
 - Scikit-Learn
-- And more...
 
 ## Dataset
 The dataset used for this project is [describe the dataset in brief, its source, and its contents].
@@ -36,9 +35,5 @@ The dataset used for this project is [describe the dataset in brief, its source,
 2. Install the required packages: `pip install -r requirements.txt`.
 3. Navigate to the Jupyter Notebook or Python scripts to view the analysis and code.
 
-## Acknowledgments
-- **IBM**: For the comprehensive Data Science Professional Certificate program.
-- **Course Instructors**: [List the course instructors' names if any], for their invaluable insights and guidance.
-- **Peer Reviewers**: For their feedback and critiques during the course assignments.
 
 For more information or questions, feel free to reach out or open an issue.
